@@ -1,0 +1,153 @@
+a {
+	text-decoration: none;
+	color:white;
+}
+p {
+	font-family: 'Pangolin', cursive;
+}
+body h1 {
+	font-size:40px;
+	margin:0;
+	text-align: center;
+	background-image: url(../slike/drvenapozadina.jpg);
+}
+header {
+	font-size: 30px;
+	text-align: center;
+	margin-top:0;
+	padding:0;
+    background-image: url(../slike/drvenapozadina.jpg);
+}
+header p {
+	font-family: 'Pangolin', cursive;
+}
+header h1 {
+	font-family: 'Pangolin', cursive;
+}
+nav {
+	float:left;
+	list-style-type: none;
+	color: white;
+}
+nav ul {
+	list-style-type: none;
+	font-size: 25px;
+}
+nav ul li {
+	list-style-type: none;
+	margin:0;
+	padding:20px;
+	border: 3px black;
+	border-radius: 10px;
+	background-image: url(../slike/drvenapozadina.jpg);
+}
+nav ul li a {
+	text-decoration:none;
+	color:white;
+	font-family: 'Pangolin', cursive;
+}
+body {
+	background-color: #441910;
+}
+img {
+	width:350px;
+	height:200px;
+	margin: 15px;
+}
+hr {
+	color:brown;
+	background-color:brown;
+	height:1px;
+	border-color:brown;
+	border-width:5px;  
+    border-style:inset;
+    border-color:#4d0b0b;
+}
+.selected {
+	font-weight:bold;
+	color: #4d0b0b;
+}
+
+#prviOkvir {
+	width: 1000px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	border:3px solid black;
+	background-color: white;
+	border-radius: 10px;
+	background-image: url(../slike/drvenapozadina2.jpg);
+}
+#sadrzaj {
+	margin-top: 30px;
+	margin-left: 5px;
+	float: right;
+	width: 800px;
+	font-size:25px;
+}
+#footer {
+	background-image: url(../slike/drvenapozadina.jpg);
+	font-size:10px;
+	clear: both;
+	text-align:right;
+}
+#listahrane {
+	margin: 30px 0px 30px 200px;
+	/*border: 3px solid black;*/
+	width:750px;
+	height:500px;
+	background-image: url(../slike/pozadinaparagrafa.jpg);
+	border-radius: 10px;
+}
+#levastrana {
+	margin: 0px 0px 30px 5px;
+	float:left;
+	/*border: 3px solid black;*/
+}
+#centralnastrana {
+	margin: 0px 0px 30px 50px;
+	float:left;
+	/*border: 3px solid black;*/
+}
+#desnastrana {
+	margin: 0px 0px 30px 50px;
+	/*border:3px solid black;*/
+	float:left;
+}
+#kontakt {
+	float: left;
+	margin: 50px 0px 50px 240px;
+	color:white;
+	font-size: 30px;
+	width:300px;
+	text-align: center;
+}
+.specialfont {
+	font-family: 'Pangolin', cursive;
+	font-size: 30px;
+}
+article h1 {
+	text-align:center;
+	font-size:15px;
+	width:206px;
+}
+article img {
+	margin:0;
+	padding:0;
+	width:200px;
+	height:100px;
+	border-top: 6px solid #4d0b0b;
+	border-left: 6px solid #4d0b0b;
+	border-radius:5px;
+}
+article p {
+	padding:0;
+	margin-bottom:5px;
+	font-size: 15px;
+	font-family: 'Pangolin', cursive;
+	color:white;
+	width:200px;
+}
+article hr {
+	margin:0;
+}
